@@ -1,5 +1,4 @@
-# Physician Financial Incentives to Reduce Unplanned Hospital Readmissions
-A Propensity Score Weighted Cohort Study
+# Physician Financial Incentives to Reduce Unplanned Hospital Readmissions: A Propensity Score Weighted Cohort Study
 
 📌 Overview
 This repository contains R code and analysis scripts for the study:
